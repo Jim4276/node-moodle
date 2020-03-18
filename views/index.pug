@@ -1,0 +1,24 @@
+extends default
+
+block content
+	div.container
+
+		img(src="/images/william-gibson.jpg", style="width: 300px; margin-bottom: 5px")
+
+		p William Gibson, Author of The Sprawl Trilogy
+
+		p(style="text-transform: uppercase; font-size: 32px; margin-top: 20px; margin-bottom: 15px; font-weight: bold")
+			| Books
+
+		div
+
+			each book in books
+
+				div(style="display: inline-block")
+
+					img.book(src=("/images/" + book.imgSrc))
+
+					p.bookLink #{book.title}
+
+					p.bookLink
+						a(href=("view-book?id=" + book.id)) View Book

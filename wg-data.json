@@ -1,0 +1,33 @@
+{
+  "books": [
+    {
+      "title": "Neuromancer",
+      "date": "1984",
+      "summary":
+        "The Matrix: a world within a world, a graphic representation of the databanks of every computer in the human system; a consensual hallucination experienced daily by billions of legitimate users in the Sprawl alone. And by Case, computer cowboy, until his nervous system is grievously maimed by a client he double crossed. Japanese experts in nerve splicing and microbionics have left him broken and close to death. But at last Case has found a cure. He’s going back into the system. Not for the bliss of cyberspace but to steal again, this time from the big boys, the almighty megacorps. In return, should he survive, he will stay cured. Cyberspace and virtual reality were invented in this book. It stands alongside '1984' and 'Brave New World' as one of the twentieth century’s most potent novels of the future.",
+      "firstline": "The sky above the port was the colour of television, tuned to a dead channel...",
+      "imgSrc": "neuromancer.jpg",
+      "id": "NEU"
+    },
+
+    {
+      "title": "Count Zero",
+      "date": "1986",
+      "summary":
+        "When the Maas Biolabs and Hosaka zaibatsus fight it out for world domination, computer cowboys like Turner and Count Zero are just foot soldiers in the great game: useful but ultimately expendable. When Turner wakes up in Mexico - in a new body with a beautiful woman beside him - his corporate masters let him recuperate for a while, then reactivate his memory for a mission even more dangerous than the one that nearly killed him: the head designer from Maas Biolabs says he wants to defect to Hosaka, and it's Turner's job to deliver him safely. Count Zero is a rustbelt data-hustler totally unprepared for what comes his way when the designer's defection triggers war in cyberspace. With voodoo gods in the Net and angels in the software, he can only hope that the megacorps and the super-rich have their virtual hands too full to notice the amateur hacker with the black market kit trying desperately to stay alive . . .",
+      "firstline": "They set a slamhound on Turner's trail in New Delhi, slotted it to his pheromones and the colour of his hair...",
+      "imgSrc": "count-zero.jpg",
+      "id": "COU"
+    },
+
+    {
+      "title": "Mona Lisa Overdrive",
+      "date": "1988",
+      "summary":
+        "Mona is a young girl with a murky past and an uncertain future whose life is turned upside down when her pimp sells her to a plastic surgeon in New York and overnight she's turned into someone else. Angie Mitchell is a famous Hollywood Sense/Net star with a special talent. And despite the efforts of studio bosses to keep her in ignorance, Angie's started remembering things. Soon she'll discover who she really is . . . and why she doesn't need a deck in order to enter cyberspace. From inside the matrix, plots are set in motion and human beings are being played like pieces on a board. And behind the intrigue lurks the shadowy Yazuka, the powerful Japanese underworld, whose leaders ruthlessly manipulate people and events to suit their own purposes. Or so they think . . .",
+      "firstline": "The ghost was her father's parting gift, presented by a black-clad secretary in a depature lounge at Narita...",
+      "imgSrc": "mona-lisa-overdrive.jpg",
+      "id": "MON"
+    }
+  ]
+}
